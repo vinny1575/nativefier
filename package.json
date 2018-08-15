@@ -1,6 +1,6 @@
 {
-  "name": "nativefier",
-  "version": "7.6.7",
+  "name": "fc-nativefier",
+  "version": "7.6.8",
   "description": "Wrap web apps natively",
   "keywords": [
     "desktop",
